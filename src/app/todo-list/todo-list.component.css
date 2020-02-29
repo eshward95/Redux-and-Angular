@@ -1,0 +1,9 @@
+
+.completed { 
+text-decoration: line-through ;
+color: salmon;
+}
+.thead-inverse th {
+  color: #fff;
+  background-color: #373a3c;
+}
